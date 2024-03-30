@@ -110,6 +110,18 @@ h5 {
   background-repeat: no-repeat;
   padding: 234px 30px 230px 10px;
 }
+.hero-blog-team {
+  background-image: url(/images/2024/teamjp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px 20px 200px 10px;
+}
+.hero-blog-careers {
+  background-image: url(/images/2024/careersjp.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 250px 20px 200px 10px;
+}
 .hero {
   background: #dbd5d5;
   text-align: center;
